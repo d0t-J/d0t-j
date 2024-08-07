@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/dotj/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Renato_Resabala" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d0t-j&label=Profile%20views&color=0e75b6&style=flat" alt="d0t-j" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0t-j&label=Profile%20views&color=0e75b6&style=flat" alt="d0t-j" /> </p> -->
 
 ---
 
