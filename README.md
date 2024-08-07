@@ -17,7 +17,7 @@
 </a>
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0t-j&label=Profile%20views&color=0e75b6&style=flat" alt="d0t-j" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d0t-j&label=Profile%20views&color=0e75b6&style=flat" alt="d0t-j" /> </p>
 
 
 ------
