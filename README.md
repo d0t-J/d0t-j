@@ -5,7 +5,7 @@
 (～￣ ▽ ￣)～
 (～ o ￣ 3 ￣)～
 
-- 🔭 I’m currently working as a software engineer intern @ Headstarter.co.
+- 🔭 ...
 - 🌱 I’m currently learning; ML, AI, Python, Web.
 - 💬 Ask me about **HTML, CSS, Javascript, Next.js, C++, Python, ML/DL**
 - ⚡ Fun fact: breaking bubbles.
