@@ -31,48 +31,5 @@
 
 ---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,c,cpp"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,bootstrap,js"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=firebase"/></td>
-    </tr>
-    <!-- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr> -->
-    <!-- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr> -->
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-    <!-- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr> -->
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr>
-</table>
--->
-
----
-
 <!-- [d0t-j](https://github.com/d0t-j)
 26/07/2024 -->
