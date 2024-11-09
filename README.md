@@ -1,10 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Junaid Ahmed
-
-(～￣ ▽ ￣)～
-(～ o ￣ 3 ￣)～
-- ⚡ Fun fact: breaking bubbles.
+### Hello 🌎, I'm Junaid Ahmed ツ
+- breaking bubbles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
