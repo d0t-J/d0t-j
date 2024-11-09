@@ -4,10 +4,6 @@
 
 (～￣ ▽ ￣)～
 (～ o ￣ 3 ￣)～
-
-- 🔭 ...
-- 🌱 I’m currently learning; ML, AI, Python, Web.
-- 💬 Ask me about **HTML, CSS, Javascript, Next.js, C++, Python, ML/DL**
 - ⚡ Fun fact: breaking bubbles.
 
 <h3 align="left">Connect with me:</h3>
