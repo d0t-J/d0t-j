@@ -25,7 +25,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/d0t-j">
-    <img src="https://streak-stats.demolab.com?user=d0t-j&theme=radical&hide_border=true&border_radius=15" alt="d0t-j" />
+    <img src="https://streak-stats.demolab.com?user=d0t-J&theme=radical&hide_border=true&border_radius=15" alt="Streak" />
   </a>
 </p>
 
