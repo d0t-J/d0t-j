@@ -22,12 +22,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0t-j&show_icons=true&locale=en&layout=compact&theme=radical" alt="d0t-j"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d0t-j&show_icons=true&theme=radical" alt="d0t-j"/>
   </a>
-</div>
-<p align="center">
+  <p align="center">
   <a href="https://github.com/d0t-j">
     <img src="https://streak-stats.demolab.com?user=d0t-J&theme=radical&hide_border=true&border_radius=15" alt="Streak" />
   </a>
 </p>
+</div>
+
 
 ---
 
