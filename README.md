@@ -14,7 +14,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d0t-j&theme=react-dark)](https://github.com/d0t-J)
+[![Junaid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d0t-j&theme=react-dark)](https://github.com/d0t-J)
 
 <div align="center">
   <a href="https://github.com/d0t-j">
