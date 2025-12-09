@@ -8,7 +8,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EqCKeZgzBv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/br3ad_ko4e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dotj) [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AhmedJa7a7) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.ahmed.ja7a7@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=social&logo=discord&logoColor=white)](https://discord.gg/EqCKeZgzBv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=Instagram&logoColor=white)](https://instagram.com/br3ad_ko4e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/dotj) 
+[![X](https://img.shields.io/badge/X-%23000000?style=social&logo=x&logoColor=white)](https://x.com/AhmedJa7a7) [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:j.ahmed.ja7a7@gmail.com)
 
 # 💻 Tech Stack
 
