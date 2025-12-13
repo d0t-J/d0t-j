@@ -57,9 +57,9 @@
 
 # 📊 GitHub Stats:
 [![Junaid Ahmad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d0t-j&theme=radical)](https://github.com/d0t-J)
-[![Junaid Ahmad Stats](https://github-readme-stats.vercel.app/api?username=d0t-J&theme=radical&hide_border=false&include_all_commits=true&count_private=true)(https://github.com/d0t-J)]
-[![Junaid Ahmad Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0t-J&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact)(https://github.com/d0t-J)]<br/>
-[![Junaid AHmad Github Streak](https://nirzak-streak-stats.vercel.app/?user=d0t-J&theme=radical&hide_border=true&border_radius=15)(https://github.com/d0t-J)]<br/>
+[![Junaid Ahmad Stats](https://github-readme-stats.vercel.app/api?username=d0t-J&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/d0t-J)
+[![Junaid Ahmad Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0t-J&theme=radical&show_icons=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/d0t-J)<br/>
+[![Junaid AHmad Github Streak](https://nirzak-streak-stats.vercel.app/?user=d0t-J&theme=radical&hide_border=true&border_radius=15)](https://github.com/d0t-J)<br/>
 
 
 ### ✍️ Random Dev Quote
